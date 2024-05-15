@@ -1,0 +1,25 @@
+.ToDo_info{
+    width: 65em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.block{
+   
+
+    width: 15em;
+    height: 20em;
+    text-align: center;
+}
+.h22{
+    width: 20em;
+    height:2em;
+    text-align: center;
+    
+}
+.osnov_div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
